@@ -1,4 +1,4 @@
-package com.vp.simpletest;
+package com.vp.spring.simpletest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
