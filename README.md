@@ -5,6 +5,10 @@ This project is a small test to be solved by candidates during the interviews fo
 ## Duration
 This interview step is intended to last from 20 to 40 minutes in total, some candidates could take a little longer, is strongly suggested to stablish a time limit from the beggining.
 
+Have in mind that you must add an extra 30 to 40 minutes to the total interview time given the "questions and answers" round and the time spent on background checking.
+
+A total of 60 to 90 minutes shall be reserved for the whole interview.
+
 ## Requirements
 This shall be solved by doing screen-sharing, therefore the candidate shall have the following requirements installed on his machine:
 
@@ -12,6 +16,7 @@ This shall be solved by doing screen-sharing, therefore the candidate shall have
 * JAVA 1.8
 * A java IDE (Eclipse, Intelli-j, Netbeans...)
     * Make sure your IDE has a Maven plugin installed.
+    * Gradle plugin is also strongly suggested since it may be needed.
 
 
 ## General description
