@@ -78,7 +78,8 @@ public class UtilsTest {
 	@Test
 	@Ignore
 	public void smallestSum_valid(){
-		Assert.assertEquals(2, Utils.smallestSum("1,2,3,4"));
+		Assert.assertEquals(3, Utils.smallestSum("1,2,3,4"));
+		Assert.assertEquals(2, Utils.smallestSum("1,2,3,1"));
 		Assert.assertEquals(5, Utils.smallestSum("10,2,3,4"));
 		Assert.assertEquals(5, Utils.smallestSum("1,22,33,4"));
 	}
