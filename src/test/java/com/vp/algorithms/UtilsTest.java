@@ -96,9 +96,9 @@ public class UtilsTest {
 	@Test
 	@Ignore
 	public void sumDigits_valid(){
-		Assert.assertEquals(2, Utils.sumDigits(12345));
-		Assert.assertEquals(5, Utils.sumDigits(0));
-		Assert.assertEquals(5, Utils.sumDigits(1));
+		Assert.assertEquals(15, Utils.sumDigits(12345));
+		Assert.assertEquals(0, Utils.sumDigits(0));
+		Assert.assertEquals(1, Utils.sumDigits(1));
 	}
 	
 	@Test(expected=RuntimeException.class)

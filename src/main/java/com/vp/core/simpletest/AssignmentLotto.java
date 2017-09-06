@@ -17,8 +17,6 @@ public class AssignmentLotto extends LottosParent implements Lotto{
 	/**
 	 * This method returns the lotto value to be used
 	 * 
-	 * This should never ever return an exception! if there is one, return instead "Too Easy"
-	 * 
 	 * @return String containing the value to be returned when calling the lottery
 	 */
 	private String getAssignment(){

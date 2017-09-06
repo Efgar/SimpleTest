@@ -66,7 +66,7 @@ public class Utils {
 	 * We want to add the digits of a big number and return the result of the
 	 * sum
 	 * 
-	 * 1. Negative values are invalid inputs
+	 * 1. Negative values (and zero) are invalid inputs
 	 * 
 	 * 2. You shall not change any current call to this function
 	 * 
