@@ -1,4 +1,4 @@
-# Velocity Partners interview test:
+# Simple interview test:
 
 This project is a small test to be solved by candidates during the interviews for java developers.
 
