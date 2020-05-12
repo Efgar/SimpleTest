@@ -11,7 +11,7 @@ public class LottosParent{
 		lottoValues = Optional.ofNullable(null);
 	}
 
-	public void addLottoValue(String value) {
+	void addLottoValue(String value) {
 		lottoValues.ifPresent(lotto -> {lotto.add(value);});
 	}
 
@@ -19,7 +19,7 @@ public class LottosParent{
 		return lottoValues.get().get(index);
 	}
 	
-	protected int getLottoSize(){
+	int getLottoSize(){
 		return lottoValues.get().size();
 	}
 }
