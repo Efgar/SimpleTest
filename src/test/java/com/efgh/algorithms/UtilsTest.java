@@ -1,10 +1,8 @@
-package com.vp.algorithms;
+package com.efgh.algorithms;
 
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;
-
-import com.vp.algorithms.Utils;
 
 
 public class UtilsTest {

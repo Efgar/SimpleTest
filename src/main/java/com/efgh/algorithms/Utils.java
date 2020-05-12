@@ -1,4 +1,4 @@
-package com.vp.algorithms;
+package com.efgh.algorithms;
 
 public class Utils {
 

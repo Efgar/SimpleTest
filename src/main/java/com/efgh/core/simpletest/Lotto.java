@@ -1,4 +1,4 @@
-package com.vp.core.simpletest;
+package com.efgh.core.simpletest;
 
 public interface Lotto {
 	
